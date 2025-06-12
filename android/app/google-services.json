@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "566682909799",
+    "firebase_url": "https://fasum-aaf9f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fasum-aaf9f",
+    "storage_bucket": "fasum-aaf9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566682909799:android:b19584fcf01635790328c2",
+        "android_client_info": {
+          "package_name": "com.ibadahfinder.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK9QbDpedWRPmUMyq6Y_GjPEWd7mn9od4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
