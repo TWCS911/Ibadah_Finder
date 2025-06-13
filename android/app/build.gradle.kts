@@ -19,8 +19,8 @@ keystoreProperties.load(FileInputStream(keystorePropertiesFile))
 
 android {
     namespace = "com.ibadahfinder.app"
-    compileSdk = 35                    // langsung pakai angka
-    ndkVersion = "27.0.12077973"      // override NDK versi langsung
+    compileSdk = 35
+    ndkVersion = "27.0.12077973"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
@@ -33,10 +33,10 @@ android {
 
     defaultConfig {
         applicationId = "com.ibadahfinder.app"
-        minSdk = 23                   // override minSdk jadi 23
-        targetSdk = 33                // override targetSdk jadi 33
-        versionCode = 1               // kamu bisa sesuaikan
-        versionName = "1.0"           // kamu bisa sesuaikan
+        minSdk = 23
+        targetSdk = 35
+        versionCode = 4
+        versionName = "1.3"
     }
 
     signingConfigs {
